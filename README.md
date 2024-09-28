@@ -3,7 +3,7 @@
 **Travel Quest** is a basic static website designed to showcase breathtaking travel destinations from around the world. Built with HTML, CSS, and JavaScript, it serves as an inviting portal for travel enthusiasts to explore popular and exotic places.
 
 ## 🚀 Live Demo
-Check out the live version 
+Check out the live version : https://suyash-dabral.github.io/TravelQuest/
 
 ## 🏖️ Features
 
